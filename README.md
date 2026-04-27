@@ -30,4 +30,3 @@ pip install vitaldb plotly numpy matplotlib
 
 ## Data
 Data files are not included in this repository.  
-Compatible with `.vital` files exported from Philips IntelliVue monitors via [VitalDB](https://vitaldb.net).
