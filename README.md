@@ -1,5 +1,5 @@
 # ICU-Vital-Signs-Processing-Pipeline
-# ICU Vital Signs Visualizer
+## ICU Vital Signs Visualizer
 
 Interactive visualization of ICU patient vital signals recorded in `.vital` format (VitalDB).
 
